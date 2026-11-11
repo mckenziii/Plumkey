@@ -1,3 +1,5 @@
+(Made all with Python, please read to understand more :3)
+
 # Plumkey ✦ a cute lil macro studio ♡
 
 Plumkey lets you **make, save and run macros** without fighting AutoHotkey syntax.
